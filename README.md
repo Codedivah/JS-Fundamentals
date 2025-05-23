@@ -6,5 +6,5 @@ This repository contains introductory JavaScript scripts aimed at building found
 
 ### Description
 
-This script prints the message:"Javascript is amazing.
+This script prints the message:"JavaScript is amazing.
 
