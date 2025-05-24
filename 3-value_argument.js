@@ -1,4 +1,5 @@
-const args = process.argv.slice(2);
+const args = ["","Best","School"];
+args[0]= undefined;
 
 if (args[0] === undefined) {
   console.log("No argument");
